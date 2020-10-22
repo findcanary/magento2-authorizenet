@@ -1,0 +1,18 @@
+{
+    "name": "authorizenet/magento-module-authorizenet",
+    "description": "Authorize.Net Payment module suite for Magento",
+    "version": "1.0.1",
+    "type": "metapackage",
+    "require": {
+        "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0",
+        "authorizenet/magento-module-centinel": "1.0.1",
+        "authorizenet/magento-module-creditcard": "1.0.1",
+        "authorizenet/magento-module-echeck": "1.0.1",
+        "authorizenet/magento-module-paypalexpress": "1.0.1",
+        "authorizenet/magento-module-visacheckout": "1.0.1",
+        "authorizenet/magento-module-webhooks": "1.0.2"
+    },
+    "license": [
+        "proprietary"
+    ]
+}
