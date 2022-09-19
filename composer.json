@@ -6,7 +6,6 @@
     "require": {
         "php": "7.0.2|7.0.4|~7.0.6|~7.1.0|~7.2.0|~7.3.0|~7.4.0|~8.0.0|~8.1.0",
         "authorizenet/magento-module-core": "1.0.1.2",
-        "authorizenet/magento-module-centinel": "1.0.1.2",
         "authorizenet/magento-module-creditcard": "1.0.1.2",
         "authorizenet/magento-module-echeck": "1.0.1.2",
         "authorizenet/magento-module-paypalexpress": "1.0.1.2",
@@ -36,10 +35,6 @@
         "authorizenet-echeck": {
             "type": "vcs",
             "url": "git@github.com:findcanary/magento2-authorizenet-echeck.git"
-        },
-        "authorizenet-centinel": {
-            "type": "vcs",
-            "url": "git@github.com:findcanary/magento2-authorizenet-centinel.git"
         },
         "authorizenet-webhooks": {
             "type": "vcs",
