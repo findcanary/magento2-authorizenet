@@ -1,6 +1,6 @@
 {
     "name": "authorizenet/magento-module-authorizenet",
-    "description": "c suite for Magento",
+    "description": "Authorize.Net Payment module suite for Magento",
     "version": "1.0.1.7",
     "type": "metapackage",
     "require": {
